@@ -1,3 +1,19 @@
+The above project tries to predict the name of the inhabitant present in a particular place.
+Eg. India --> Indian
+    Mumbai --> Mumbaikar
+    Italy --> Italian....
+
+This is part of NLP project under Prof. Pushpak Bhattacharyya.
+
+
+
+
+
+
+
+
+Requirements:-
+
 The list of libraries along with versions we have used are:
 pandas==1.4.3
 numpy==1.24.3
